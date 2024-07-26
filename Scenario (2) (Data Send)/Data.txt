@@ -1,0 +1,4026 @@
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -58
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -59
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -68
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -74
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -74
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.70,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -68
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.70,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -74
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -70
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -74
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -66
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.70,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -74
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.70,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.70,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.70,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> No reply, Is there a listener around?
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -70
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,33.00,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,33.00,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,33.00,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,33.00,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,33.00,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -74
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -74
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -68
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -74
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -70
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,33.00,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,33.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -70
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,33.00,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.90,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,nan,nan,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -70
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.70,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -73
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.80,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -72
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -71
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -77
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,51.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,51.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.60,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.50,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.40,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,50.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> No reply, Is there a listener around?
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> No reply, Is there a listener around?
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,46.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.00,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,47.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,48.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.30,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -56
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.20,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
+>> Transmitting...
+
+>> Message is: 12,32.10,49.00,22.22,
+
+>> Got Reply: 12 Server ACK.
+
+>> RSSI: -55
+
+***********************************************
+
